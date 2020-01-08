@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sublime Text files
+*.sublime-project
+*.sublime-workspace
+
+# AOC related files
+creds/
+data/
+img/
+
+#incomplete stuff
+aoc_visualizer/
+github_oauth.py
