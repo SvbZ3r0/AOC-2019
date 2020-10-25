@@ -11,6 +11,8 @@ __pycache__/
 creds/
 data/
 img/
+Lib/
+Scripts/
 
 #incomplete stuff
 aoc_visualizer/
