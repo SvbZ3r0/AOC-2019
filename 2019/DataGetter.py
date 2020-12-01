@@ -4,7 +4,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-cred_file = './creds/aoc_cookie.json'
+cred_file = '../creds/aoc_cookie.json'
 
 def get_data(day, cred_file = cred_file):
 	dat_file = './data/day {:02} dat.txt'.format(day)

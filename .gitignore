@@ -11,9 +11,10 @@ __pycache__/
 creds/
 data/
 img/
+
+# virtual environment
 Lib/
 Scripts/
 
-#incomplete stuff
-aoc_visualizer/
-github_oauth.py
+# incomplete stuff
+2019/aoc_visualizer/
